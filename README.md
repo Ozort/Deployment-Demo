@@ -54,5 +54,5 @@ The experience helped reinforce an important DevOps lesson:
 
 ---
 
-## 📂 Project Structure
+https://medium.com/@ozort/deploying-a-static-website-on-ec2-using-github-actions-after-aws-ci-cd-failed-me-5c9eafdc1c15
 
